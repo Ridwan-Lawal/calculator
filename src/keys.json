@@ -1,0 +1,92 @@
+[
+  {
+    "key": 7,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 8,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 9,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": "DEL",
+    "lightTheme": "text-xl hover:bg-opacity-80 transition-opacity text-white bg-moderateCyan shadow-veryDarkCyan",
+    "darkTheme": "text-xl hover:bg-opacity-80 transition-opacit  text-white dark:shadow-desaturatedBlue2 dark:bg-desaturatedBlue1"
+  },
+  {
+    "key": 4,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 5,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 6,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": "+",
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 1,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 2,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 3,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": "-",
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": ".",
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": 0,
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": "/",
+    "lightTheme": "text-3xl hover:bg-white transition-colors transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": "*",
+    "lightTheme": "text-3xl hover:bg-white transition-colors text-veryDarkGrayishYello bg-lightGrayishYellow shadow-darkGrayishOrange",
+    "darkTheme": "text-3xl hover:bg-white transition-colors dark:shadow-desaturatedOrange2 dark:text-desaturatedBlue2 dark:bg-desaturatedOrange1"
+  },
+  {
+    "key": "Reset",
+    "lightTheme": "text-xl hover:bg-opacity-80 transition-opacity col-span-2 text-white bg-moderateCyan shadow-veryDarkCyan",
+    "darkTheme": "text-xl hover:bg-opacity-80 transition-opacity col-span-2 text-white dark:shadow-desaturatedBlue2 dark:bg-desaturatedBlue1"
+  },
+  {
+    "key": "=",
+    "lightTheme": "text-xl hover:bg-opacity-80 transition-opacity col-span-2 text-white bg-orange shadow-darkOrange",
+    "darkTheme": "text-xl hover:bg-opacity-80 transition-opacity col-span-2 text-white dark:shadow-desaturatedRed2 dark:bg-desaturatedRed1"
+  }
+]
